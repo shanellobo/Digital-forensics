@@ -1,4 +1,0 @@
-2026-08-21 09:00:01- user login successful
-2026-08-21 09:15:22- file accessed
-2026-08-21 09:30:45- usb device connected
-2026-08-21 09:00:01- user logout
